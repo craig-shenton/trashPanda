@@ -1,4 +1,4 @@
-# trashPanda
+# :raccoon: trashPanda
 
 Ingest highly unstructured excel files
 
