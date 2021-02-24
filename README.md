@@ -2,6 +2,9 @@
 
 Ingest highly unstructured excel files
 
-> path = 'data/'
-> config = 'config.yaml'
-> trashPanda(path,config)
+Usage:
+```
+path = 'data/'
+config = 'config.yaml'
+trashPanda(path,config)
+```
