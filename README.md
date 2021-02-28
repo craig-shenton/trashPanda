@@ -1,6 +1,6 @@
 # :raccoon: trashPanda
 
-Ingest highly unstructured excel files
+Ingest poorly structured excel files
 
 Usage:
 ```
